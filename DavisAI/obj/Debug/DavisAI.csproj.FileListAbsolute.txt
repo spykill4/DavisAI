@@ -1,1 +1,8 @@
 C:\Users\Nataliya\Documents\GitHub\DavisAI\DavisAI\bin\Debug\DavisAI.exe.config
+C:\Users\Nataliya\Documents\GitHub\DavisAI\DavisAI\bin\Debug\DavisAI.exe
+C:\Users\Nataliya\Documents\GitHub\DavisAI\DavisAI\bin\Debug\DavisAI.pdb
+C:\Users\Nataliya\Documents\GitHub\DavisAI\DavisAI\bin\Debug\NLP.dll
+C:\Users\Nataliya\Documents\GitHub\DavisAI\DavisAI\bin\Debug\NLP.pdb
+C:\Users\Nataliya\Documents\GitHub\DavisAI\DavisAI\obj\Debug\DavisAI.csprojResolveAssemblyReference.cache
+C:\Users\Nataliya\Documents\GitHub\DavisAI\DavisAI\obj\Debug\DavisAI.exe
+C:\Users\Nataliya\Documents\GitHub\DavisAI\DavisAI\obj\Debug\DavisAI.pdb

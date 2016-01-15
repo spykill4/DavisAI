@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NLP
+namespace DavisNLP
 {
-    static class Tokenizer
+    public static class Tokenizer
     {
         /*
         Splits a body of text into sentences.
