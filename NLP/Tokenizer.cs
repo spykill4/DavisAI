@@ -9,6 +9,8 @@ namespace NLP
     static class Tokenizer
     {
         /*
+        Splits a body of text into sentences.
+
         TODO: Make it good, titles and abreviations cause splits in sentences - fix
 
         params: string text - text to split into sentences
@@ -26,6 +28,11 @@ namespace NLP
                     sentences.Add(nextSentence);
                     nextSentence = "";
                 }
+            }
+            if(nextSentence != "")
+            {
+                sentences.Add(nextSentence);
+                nextSentence = "";
             }
             return sentences.ToArray();
         }
