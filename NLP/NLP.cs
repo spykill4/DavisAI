@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace DavisNLP
 {
-    public class NLP
+    public static class NLP
     {
+        
     }
 }

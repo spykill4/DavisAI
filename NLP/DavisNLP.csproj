@@ -7,8 +7,8 @@
     <ProjectGuid>{FE672390-898C-4BD1-AF85-A41CAE5196E9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NLP</RootNamespace>
-    <AssemblyName>NLP</AssemblyName>
+    <RootNamespace>DavisNLP</RootNamespace>
+    <AssemblyName>DavisNLP</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -43,6 +43,7 @@
     <Compile Include="NLP.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tokenizer.cs" />
+    <Compile Include="WordDefinition.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
